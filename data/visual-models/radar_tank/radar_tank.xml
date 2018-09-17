@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<params>
+  <model>radar_tank.obj</model>
+  <texture>body.png</texture>
+  <!-- <texture>body_bp.png</texture> -->
+  <!-- <texture>body_sp.png</texture> -->
+  <texture>track.png</texture>
+  <visual_scale>0.000658892</visual_scale> <!-- 1 m width -->
+  <visual_rpy>90 90 0</visual_rpy>
+</params>
